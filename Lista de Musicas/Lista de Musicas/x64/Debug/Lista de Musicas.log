@@ -1,0 +1,6 @@
+﻿  artista.cpp
+  cancion.cpp
+  playlist.cpp
+  Generando código...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\HP\source\repos\Lista de Musicas\x64\Debug\Lista de Musicas.exe : fatal error LNK1120: 1 externos sin resolver
